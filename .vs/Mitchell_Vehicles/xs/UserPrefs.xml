@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{339BC0BB-7A03-4BEA-A01A-F946E7D67451}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mitchell_Vehicles/Services/IVehicleService.cs">
+    <Files>
+      <File FileName="Mitchell_Vehicles/Vehicle.cs" Line="20" Column="1" />
+      <File FileName="Mitchell_Vehicles/Services/VehicleService.cs" />
+      <File FileName="Mitchell_Vehicles/Controllers/VehicleController.cs" />
+      <File FileName="Mitchell_Vehicles/Services/IVehicleService.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mitchell_Vehicles" expanded="True">
+            <Node name="Mitchell_Vehicles" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="IVehicleService.cs" selected="True" />
+              </Node>
+              <Node name="Validations" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Mitchell__Vehicles PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
